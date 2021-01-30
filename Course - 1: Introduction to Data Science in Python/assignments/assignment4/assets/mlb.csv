@@ -1,0 +1,151 @@
+team,W,L,W-L%,GB,year,League
+Boston Red Sox,108,54,0.667,--,2018,MLB
+New York Yankees,100,62,0.617,8.0,2018,MLB
+Tampa Bay Rays,90,72,0.556,18.0,2018,MLB
+Toronto Blue Jays,73,89,0.451,35.0,2018,MLB
+Baltimore Orioles,47,115,0.29,61.0,2018,MLB
+Cleveland Indians,91,71,0.562,--,2018,MLB
+Minnesota Twins,78,84,0.48100000000000004,13.0,2018,MLB
+Detroit Tigers,64,98,0.395,27.0,2018,MLB
+Chicago White Sox,62,100,0.38299999999999995,29.0,2018,MLB
+Kansas City Royals,58,104,0.358,33.0,2018,MLB
+Houston Astros,103,59,0.636,--,2018,MLB
+Oakland Athletics,97,65,0.599,6.0,2018,MLB
+Seattle Mariners,89,73,0.5489999999999999,14.0,2018,MLB
+Los Angeles Angels,80,82,0.494,23.0,2018,MLB
+Texas Rangers,67,95,0.414,36.0,2018,MLB
+Atlanta Braves,90,72,0.556,--,2018,MLB
+Washington Nationals,82,80,0.506,8.0,2018,MLB
+Philadelphia Phillies,80,82,0.494,10.0,2018,MLB
+New York Mets,77,85,0.475,13.0,2018,MLB
+Miami Marlins,63,98,0.391,26.5,2018,MLB
+Milwaukee Brewers,96,67,0.589,--,2018,MLB
+Chicago Cubs,95,68,0.583,1.0,2018,MLB
+St. Louis Cardinals,88,74,0.5429999999999999,7.5,2018,MLB
+Pittsburgh Pirates,82,79,0.509,13.0,2018,MLB
+Cincinnati Reds,67,95,0.414,28.5,2018,MLB
+Los Angeles Dodgers,92,71,0.564,--,2018,MLB
+Colorado Rockies,91,72,0.5579999999999999,1.0,2018,MLB
+Arizona Diamondbacks,82,80,0.506,9.5,2018,MLB
+San Francisco Giants,73,89,0.451,18.5,2018,MLB
+San Diego Padres,66,96,0.40700000000000003,25.5,2018,MLB
+Boston Red Sox,93,69,0.574,--,2017,MLB
+New York Yankees,91,71,0.562,2.0,2017,MLB
+Tampa Bay Rays,80,82,0.494,13.0,2017,MLB
+Toronto Blue Jays,76,86,0.469,17.0,2017,MLB
+Baltimore Orioles,75,87,0.46299999999999997,18.0,2017,MLB
+Cleveland Indians,102,60,0.63,--,2017,MLB
+Minnesota Twins,85,77,0.525,17.0,2017,MLB
+Kansas City Royals,80,82,0.494,22.0,2017,MLB
+Chicago White Sox,67,95,0.414,35.0,2017,MLB
+Detroit Tigers,64,98,0.395,38.0,2017,MLB
+Houston Astros,101,61,0.623,--,2017,MLB
+Los Angeles Angels,80,82,0.494,21.0,2017,MLB
+Seattle Mariners,78,84,0.48100000000000004,23.0,2017,MLB
+Texas Rangers,78,84,0.48100000000000004,23.0,2017,MLB
+Oakland Athletics,75,87,0.46299999999999997,26.0,2017,MLB
+Washington Nationals,97,65,0.599,--,2017,MLB
+Miami Marlins,77,85,0.475,20.0,2017,MLB
+Atlanta Braves,72,90,0.444,25.0,2017,MLB
+New York Mets,70,92,0.43200000000000005,27.0,2017,MLB
+Philadelphia Phillies,66,96,0.40700000000000003,31.0,2017,MLB
+Chicago Cubs,92,70,0.568,--,2017,MLB
+Milwaukee Brewers,86,76,0.531,6.0,2017,MLB
+St. Louis Cardinals,83,79,0.512,9.0,2017,MLB
+Pittsburgh Pirates,75,87,0.46299999999999997,17.0,2017,MLB
+Cincinnati Reds,68,94,0.42,24.0,2017,MLB
+Los Angeles Dodgers,104,58,0.642,--,2017,MLB
+Arizona Diamondbacks,93,69,0.574,11.0,2017,MLB
+Colorado Rockies,87,75,0.537,17.0,2017,MLB
+San Diego Padres,71,91,0.43799999999999994,33.0,2017,MLB
+San Francisco Giants,64,98,0.395,40.0,2017,MLB
+Boston Red Sox,93,69,0.574,--,2016,MLB
+Baltimore Orioles,89,73,0.5489999999999999,4.0,2016,MLB
+Toronto Blue Jays,89,73,0.5489999999999999,4.0,2016,MLB
+New York Yankees,84,78,0.519,9.0,2016,MLB
+Tampa Bay Rays,68,94,0.42,25.0,2016,MLB
+Cleveland Indians,94,67,0.584,--,2016,MLB
+Detroit Tigers,86,75,0.534,8.0,2016,MLB
+Kansas City Royals,81,81,0.5,13.5,2016,MLB
+Chicago White Sox,78,84,0.48100000000000004,16.5,2016,MLB
+Minnesota Twins,59,103,0.364,35.5,2016,MLB
+Texas Rangers,95,67,0.586,--,2016,MLB
+Seattle Mariners,86,76,0.531,9.0,2016,MLB
+Houston Astros,84,78,0.519,11.0,2016,MLB
+Los Angeles Angels,74,88,0.457,21.0,2016,MLB
+Oakland Athletics,69,93,0.426,26.0,2016,MLB
+Washington Nationals,95,67,0.586,--,2016,MLB
+New York Mets,87,75,0.537,8.0,2016,MLB
+Miami Marlins,79,82,0.491,15.5,2016,MLB
+Philadelphia Phillies,71,91,0.43799999999999994,24.0,2016,MLB
+Atlanta Braves,68,93,0.42200000000000004,26.5,2016,MLB
+Chicago Cubs,103,58,0.64,--,2016,MLB
+St. Louis Cardinals,86,76,0.531,17.5,2016,MLB
+Pittsburgh Pirates,78,83,0.484,25.0,2016,MLB
+Milwaukee Brewers,73,89,0.451,30.5,2016,MLB
+Cincinnati Reds,68,94,0.42,35.5,2016,MLB
+Los Angeles Dodgers,91,71,0.562,--,2016,MLB
+San Francisco Giants,87,75,0.537,4.0,2016,MLB
+Colorado Rockies,75,87,0.46299999999999997,16.0,2016,MLB
+Arizona Diamondbacks,69,93,0.426,22.0,2016,MLB
+San Diego Padres,68,94,0.42,23.0,2016,MLB
+Toronto Blue Jays,93,69,0.574,--,2015,MLB
+New York Yankees,87,75,0.537,6.0,2015,MLB
+Baltimore Orioles,81,81,0.5,12.0,2015,MLB
+Tampa Bay Rays,80,82,0.494,13.0,2015,MLB
+Boston Red Sox,78,84,0.48100000000000004,15.0,2015,MLB
+Kansas City Royals,95,67,0.586,--,2015,MLB
+Minnesota Twins,83,79,0.512,12.0,2015,MLB
+Cleveland Indians,81,80,0.503,13.5,2015,MLB
+Chicago White Sox,76,86,0.469,19.0,2015,MLB
+Detroit Tigers,74,87,0.46,20.5,2015,MLB
+Texas Rangers,88,74,0.5429999999999999,--,2015,MLB
+Houston Astros,86,76,0.531,2.0,2015,MLB
+Los Angeles Angels of Anaheim,85,77,0.525,3.0,2015,MLB
+Seattle Mariners,76,86,0.469,12.0,2015,MLB
+Oakland Athletics,68,94,0.42,20.0,2015,MLB
+New York Mets,90,72,0.556,--,2015,MLB
+Washington Nationals,83,79,0.512,7.0,2015,MLB
+Miami Marlins,71,91,0.43799999999999994,19.0,2015,MLB
+Atlanta Braves,67,95,0.414,23.0,2015,MLB
+Philadelphia Phillies,63,99,0.389,27.0,2015,MLB
+St. Louis Cardinals,100,62,0.617,--,2015,MLB
+Pittsburgh Pirates,98,64,0.605,2.0,2015,MLB
+Chicago Cubs,97,65,0.599,3.0,2015,MLB
+Milwaukee Brewers,68,94,0.42,32.0,2015,MLB
+Cincinnati Reds,64,98,0.395,36.0,2015,MLB
+Los Angeles Dodgers,92,70,0.568,--,2015,MLB
+San Francisco Giants,84,78,0.519,8.0,2015,MLB
+Arizona Diamondbacks,79,83,0.488,13.0,2015,MLB
+San Diego Padres,74,88,0.457,18.0,2015,MLB
+Colorado Rockies,68,94,0.42,24.0,2015,MLB
+Baltimore Orioles,96,66,0.593,--,2014,MLB
+New York Yankees,84,78,0.519,12.0,2014,MLB
+Toronto Blue Jays,83,79,0.512,13.0,2014,MLB
+Tampa Bay Rays,77,85,0.475,19.0,2014,MLB
+Boston Red Sox,71,91,0.43799999999999994,25.0,2014,MLB
+Detroit Tigers,90,72,0.556,--,2014,MLB
+Kansas City Royals,89,73,0.5489999999999999,1.0,2014,MLB
+Cleveland Indians,85,77,0.525,5.0,2014,MLB
+Chicago White Sox,73,89,0.451,17.0,2014,MLB
+Minnesota Twins,70,92,0.43200000000000005,20.0,2014,MLB
+Los Angeles Angels of Anaheim,98,64,0.605,--,2014,MLB
+Oakland Athletics,88,74,0.5429999999999999,10.0,2014,MLB
+Seattle Mariners,87,75,0.537,11.0,2014,MLB
+Houston Astros,70,92,0.43200000000000005,28.0,2014,MLB
+Texas Rangers,67,95,0.414,31.0,2014,MLB
+Washington Nationals,96,66,0.593,--,2014,MLB
+Atlanta Braves,79,83,0.488,17.0,2014,MLB
+New York Mets,79,83,0.488,17.0,2014,MLB
+Miami Marlins,77,85,0.475,19.0,2014,MLB
+Philadelphia Phillies,73,89,0.451,23.0,2014,MLB
+St. Louis Cardinals,90,72,0.556,--,2014,MLB
+Pittsburgh Pirates,88,74,0.5429999999999999,2.0,2014,MLB
+Milwaukee Brewers,82,80,0.506,8.0,2014,MLB
+Cincinnati Reds,76,86,0.469,14.0,2014,MLB
+Chicago Cubs,73,89,0.451,17.0,2014,MLB
+Los Angeles Dodgers,94,68,0.58,--,2014,MLB
+San Francisco Giants,88,74,0.5429999999999999,6.0,2014,MLB
+San Diego Padres,77,85,0.475,17.0,2014,MLB
+Colorado Rockies,66,96,0.40700000000000003,28.0,2014,MLB
+Arizona Diamondbacks,64,98,0.395,30.0,2014,MLB
