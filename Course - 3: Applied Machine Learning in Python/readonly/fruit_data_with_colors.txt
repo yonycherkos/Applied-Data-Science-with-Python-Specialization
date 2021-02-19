@@ -1,0 +1,1 @@
+/home/jovyan/work-ro/readonly/fruit_data_with_colors.txt
