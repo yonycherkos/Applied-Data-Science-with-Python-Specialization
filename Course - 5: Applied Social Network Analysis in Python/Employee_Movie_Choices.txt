@@ -1,0 +1,25 @@
+#Employee	Movie
+Andy	Anaconda
+Andy	Mean Girls
+Andy	The Matrix
+Claude	Anaconda
+Claude	Monty Python and the Holy Grail
+Claude	Snakes on a Plane
+Frida	The Matrix
+Frida	The Shawshank Redemption
+Frida	The Social Network
+Georgia	Anaconda
+Georgia	Monty Python and the Holy Grail
+Georgia	Snakes on a Plane
+Joan	Forrest Gump
+Joan	Kung Fu Panda
+Joan	Mean Girls
+Lee	Forrest Gump
+Lee	Kung Fu Panda
+Lee	Mean Girls
+Pablo	The Dark Knight
+Pablo	The Matrix
+Pablo	The Shawshank Redemption
+Vincent	The Godfather
+Vincent	The Shawshank Redemption
+Vincent	The Social Network
